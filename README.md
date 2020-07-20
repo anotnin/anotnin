@@ -1,17 +1,10 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### 我是一名全栈开发者.
 
-- 🏢 I'm currently working at **Medicare Portugal**
-- ⚙️ I use daily: `.php`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
-- 🌍 I'm mostly active within the **Laravel Community**
-- 💅 Designed: @pestphp, [NorthMeetsSouth.audio](https://www.northmeetssouth.audio), [ThenPing.me](https://thenping.me), [HappydDev.fm](https://www.happydev.fm), etc…
-- 🌱 Learning all about **Open Source**
-- 🎙 Currently hosting [Laravel Live Portugal – Season 2](https://www.youtube.com/playlist?list=PLLXPV3-YsvzTSuYYr6EkIQyvbzbvIQjkh)
-- 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [twitter.com/caneco](https://twitter.com/caneco)
-- ⚡️ Fun fact: I'm a huge fan of Harry Potter
-
----
-
-⭐️ From [caneco](https://github.com/caneco)
+- 🏢 我目前在中国南京工作
+- ⚙️ 我每天的工作都在使用: `.tsx`, `.js`, `.html`, `.css`,
+- 🌍 我目前代码主要贡献于公司内部代码
+- 💅 喜欢的设计语言:material-design,ant-design,colour-ui,snail-ui
+- 📫 了解我: [博客](https://antonin.vercel.app)
+- ⚡️ 事实上: 业余时间我还会在起点写写小说
